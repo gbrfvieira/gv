@@ -1,0 +1,603 @@
+<?xml version="1.0"?>
+<ArrayOfCotacaoValoresMobiliarios xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>217</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>2</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2019-03-31T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>2</MercadoValorMobiliario>
+    <EntidadeAdministradora>2</EntidadeAdministradora>
+    <EspecieAcao>1</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>151843015.00</VolumeNegociado>
+    <MaiorCotacao>16.57</MaiorCotacao>
+    <MenorCotacao>13.72</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Balcão Organizado</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Ordinária</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>15.01</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>218</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>2</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2019-06-30T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>2</MercadoValorMobiliario>
+    <EntidadeAdministradora>2</EntidadeAdministradora>
+    <EspecieAcao>1</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>109868727.00</VolumeNegociado>
+    <MaiorCotacao>14.29</MaiorCotacao>
+    <MenorCotacao>12.65</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Balcão Organizado</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Ordinária</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>13.66</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>219</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>2</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2019-09-30T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>2</MercadoValorMobiliario>
+    <EntidadeAdministradora>2</EntidadeAdministradora>
+    <EspecieAcao>1</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>273355733.00</VolumeNegociado>
+    <MaiorCotacao>13.64</MaiorCotacao>
+    <MenorCotacao>11.95</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Balcão Organizado</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Ordinária</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>12.89</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>220</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>2</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2019-12-31T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>2</MercadoValorMobiliario>
+    <EntidadeAdministradora>2</EntidadeAdministradora>
+    <EspecieAcao>1</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>173807039.00</VolumeNegociado>
+    <MaiorCotacao>14.14</MaiorCotacao>
+    <MenorCotacao>12.26</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Balcão Organizado</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Ordinária</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>13.53</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>221</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>2</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2019-03-31T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>2</MercadoValorMobiliario>
+    <EntidadeAdministradora>2</EntidadeAdministradora>
+    <EspecieAcao>2</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>22797168003.00</VolumeNegociado>
+    <MaiorCotacao>13.80</MaiorCotacao>
+    <MenorCotacao>11.43</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Balcão Organizado</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Preferencial</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>12.81</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>222</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>2</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2019-06-30T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>2</MercadoValorMobiliario>
+    <EntidadeAdministradora>2</EntidadeAdministradora>
+    <EspecieAcao>2</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>16081011789.00</VolumeNegociado>
+    <MaiorCotacao>12.98</MaiorCotacao>
+    <MenorCotacao>11.08</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Balcão Organizado</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Preferencial</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>11.91</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>223</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>2</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2019-09-30T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>2</MercadoValorMobiliario>
+    <EntidadeAdministradora>2</EntidadeAdministradora>
+    <EspecieAcao>2</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>16733300017.00</VolumeNegociado>
+    <MaiorCotacao>13.42</MaiorCotacao>
+    <MenorCotacao>11.83</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Balcão Organizado</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Preferencial</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>12.80</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>224</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>2</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2019-12-31T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>2</MercadoValorMobiliario>
+    <EntidadeAdministradora>2</EntidadeAdministradora>
+    <EspecieAcao>2</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>14267027082.00</VolumeNegociado>
+    <MaiorCotacao>13.44</MaiorCotacao>
+    <MenorCotacao>12.14</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Balcão Organizado</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Preferencial</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>14.19</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>225</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>3</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2018-03-31T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>3</MercadoValorMobiliario>
+    <EntidadeAdministradora>35</EntidadeAdministradora>
+    <EspecieAcao>1</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>82353031.00</VolumeNegociado>
+    <MaiorCotacao>13.42</MaiorCotacao>
+    <MenorCotacao>9.85</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Bolsa</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Ordinária</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>11.84</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>226</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>3</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2018-06-30T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>3</MercadoValorMobiliario>
+    <EntidadeAdministradora>35</EntidadeAdministradora>
+    <EspecieAcao>1</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>54312746.00</VolumeNegociado>
+    <MaiorCotacao>12.74</MaiorCotacao>
+    <MenorCotacao>9.32</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Bolsa</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Ordinária</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>11.32</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>227</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>3</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2018-09-30T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>3</MercadoValorMobiliario>
+    <EntidadeAdministradora>35</EntidadeAdministradora>
+    <EspecieAcao>1</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>39721446.00</VolumeNegociado>
+    <MaiorCotacao>11.50</MaiorCotacao>
+    <MenorCotacao>9.96</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Bolsa</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Ordinária</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>10.53</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>228</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>3</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2018-12-31T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>3</MercadoValorMobiliario>
+    <EntidadeAdministradora>35</EntidadeAdministradora>
+    <EspecieAcao>1</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>88926894.00</VolumeNegociado>
+    <MaiorCotacao>13.30</MaiorCotacao>
+    <MenorCotacao>10.44</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Bolsa</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Ordinária</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>12.04</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>229</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>3</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2018-03-31T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>3</MercadoValorMobiliario>
+    <EntidadeAdministradora>35</EntidadeAdministradora>
+    <EspecieAcao>2</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>13291818426.00</VolumeNegociado>
+    <MaiorCotacao>12.94</MaiorCotacao>
+    <MenorCotacao>9.93</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Bolsa</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Preferencial</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>11.65</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>230</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>3</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2018-06-30T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>3</MercadoValorMobiliario>
+    <EntidadeAdministradora>35</EntidadeAdministradora>
+    <EspecieAcao>2</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>14210706648.00</VolumeNegociado>
+    <MaiorCotacao>12.46</MaiorCotacao>
+    <MenorCotacao>8.61</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Bolsa</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Preferencial</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>10.80</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>231</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>3</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2018-09-30T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>3</MercadoValorMobiliario>
+    <EntidadeAdministradora>35</EntidadeAdministradora>
+    <EspecieAcao>2</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>12099871962.00</VolumeNegociado>
+    <MaiorCotacao>11.03</MaiorCotacao>
+    <MenorCotacao>9.28</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Bolsa</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Preferencial</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>9.98</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>232</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>3</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2018-12-31T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>3</MercadoValorMobiliario>
+    <EntidadeAdministradora>35</EntidadeAdministradora>
+    <EspecieAcao>2</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>16241470769.00</VolumeNegociado>
+    <MaiorCotacao>12.49</MaiorCotacao>
+    <MenorCotacao>9.99</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Bolsa</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Preferencial</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>11.48</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>233</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>4</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2017-03-31T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>3</MercadoValorMobiliario>
+    <EntidadeAdministradora>35</EntidadeAdministradora>
+    <EspecieAcao>1</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>35988089.00</VolumeNegociado>
+    <MaiorCotacao>8.99</MaiorCotacao>
+    <MenorCotacao>7.24</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Bolsa</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Ordinária</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>8.24</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>234</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>4</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2017-06-30T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>3</MercadoValorMobiliario>
+    <EntidadeAdministradora>35</EntidadeAdministradora>
+    <EspecieAcao>1</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>516135792.00</VolumeNegociado>
+    <MaiorCotacao>8.91</MaiorCotacao>
+    <MenorCotacao>7.66</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Bolsa</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Ordinária</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>8.08</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>235</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>4</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2017-09-30T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>3</MercadoValorMobiliario>
+    <EntidadeAdministradora>35</EntidadeAdministradora>
+    <EspecieAcao>1</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>56067032.00</VolumeNegociado>
+    <MaiorCotacao>9.80</MaiorCotacao>
+    <MenorCotacao>7.84</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Bolsa</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Ordinária</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>8.69</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>236</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>4</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2017-12-31T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>3</MercadoValorMobiliario>
+    <EntidadeAdministradora>35</EntidadeAdministradora>
+    <EspecieAcao>1</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>4600135419.00</VolumeNegociado>
+    <MaiorCotacao>8.89</MaiorCotacao>
+    <MenorCotacao>8.97</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Bolsa</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Ordinária</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>9.39</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>237</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>4</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2017-03-31T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>3</MercadoValorMobiliario>
+    <EntidadeAdministradora>35</EntidadeAdministradora>
+    <EspecieAcao>2</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>8665333564.00</VolumeNegociado>
+    <MaiorCotacao>9.32</MaiorCotacao>
+    <MenorCotacao>7.34</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Bolsa</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Preferencial</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>8.51</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>238</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>4</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2017-06-30T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>3</MercadoValorMobiliario>
+    <EntidadeAdministradora>35</EntidadeAdministradora>
+    <EspecieAcao>2</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>9001526742.00</VolumeNegociado>
+    <MaiorCotacao>9.27</MaiorCotacao>
+    <MenorCotacao>7.80</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Bolsa</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Preferencial</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>8.41</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>239</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>4</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2017-09-30T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>3</MercadoValorMobiliario>
+    <EntidadeAdministradora>35</EntidadeAdministradora>
+    <EspecieAcao>2</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>10931084654.00</VolumeNegociado>
+    <MaiorCotacao>10.16</MaiorCotacao>
+    <MenorCotacao>8.07</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Bolsa</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Preferencial</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>8.98</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+  <CotacaoValoresMobiliarios>
+    <CodigoCotacao>240</CodigoCotacao>
+    <Exercicio>
+      <NumeroSequencialExercicioSocial>4</NumeroSequencialExercicioSocial>
+      <DataInicioExercicioSocial>0001-01-01T00:00:00</DataInicioExercicioSocial>
+      <DataFimExercicioSocial>0001-01-01T00:00:00</DataFimExercicioSocial>
+      <ObservacaoDividas />
+    </Exercicio>
+    <DataFimTrimestre>2017-12-31T00:00:00</DataFimTrimestre>
+    <ValorMobiliario>1</ValorMobiliario>
+    <MercadoValorMobiliario>3</MercadoValorMobiliario>
+    <EntidadeAdministradora>35</EntidadeAdministradora>
+    <EspecieAcao>2</EspecieAcao>
+    <ClasseAcaoPN>0</ClasseAcaoPN>
+    <DescricaoOutrosValores />
+    <VolumeNegociado>9714013582.00</VolumeNegociado>
+    <MaiorCotacao>10.25</MaiorCotacao>
+    <MenorCotacao>9.27</MenorCotacao>
+    <ValorMobiliarioDescricao>Ações</ValorMobiliarioDescricao>
+    <MercadoValMobiliarioDescricao>Bolsa</MercadoValMobiliarioDescricao>
+    <EntidadeAdministradoraDescricao>BM&amp;FBOVESPA S.A. - Bolsa de Valores, Mercadorias e Futuros</EntidadeAdministradoraDescricao>
+    <EspecieAcaoDescricao>Preferencial</EspecieAcaoDescricao>
+    <CodigoEscalaCotacao>1</CodigoEscalaCotacao>
+    <CotacaoMedia>9.71</CotacaoMedia>
+  </CotacaoValoresMobiliarios>
+</ArrayOfCotacaoValoresMobiliarios>
